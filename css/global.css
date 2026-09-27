@@ -1,0 +1,18 @@
+/*
+60 of #4132a6
+30 of #120BD9
+10 of #D93030
+*/
+
+:root {
+
+    /* var(--primaryColor) */
+    --primaryColor: #4132a6;
+
+    /* var(--primaryColor) */
+    --seconaryColor: #120bd9;
+
+    /* var(--primaryColor) */
+    --accentColor: #D93030;
+
+}
