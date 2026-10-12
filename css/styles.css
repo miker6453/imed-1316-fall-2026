@@ -3,8 +3,14 @@
 @import url('global.css');
 
 body {
-    background-color: var(--primaryColor);
+
     color: #fff;
+}
+
+
+
+.font-awesome-icons {
+    background-color: var(--primaryColor);
 }
 
 
