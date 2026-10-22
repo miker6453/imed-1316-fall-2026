@@ -29,3 +29,14 @@ body {
 .p-one {
     color: black
 }
+
+
+.fa-footer {
+    background-color: var(--primaryColor);
+    padding: 25px;
+}
+
+.fa-footer {
+    color: white;
+    font-size: 25px;
+}
